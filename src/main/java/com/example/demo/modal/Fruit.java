@@ -1,4 +1,4 @@
-package org.acme.getting.started.modal;
+package com.example.demo.modal;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

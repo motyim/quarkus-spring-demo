@@ -1,4 +1,4 @@
-package org.acme.getting.started.utils;
+package com.example.demo.service;
 
 import java.util.function.Function;
 

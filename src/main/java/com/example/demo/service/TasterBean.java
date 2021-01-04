@@ -1,6 +1,5 @@
-package org.acme.getting.started.utils;
+package com.example.demo.service;
 
-import org.acme.getting.started.service.MessageProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;

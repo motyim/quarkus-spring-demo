@@ -1,6 +1,5 @@
-package org.acme.getting.started.service;
+package com.example.demo.service;
 
-import org.acme.getting.started.utils.StringFunction;
 import org.springframework.stereotype.Component;
 
 @Component("noopFunction")

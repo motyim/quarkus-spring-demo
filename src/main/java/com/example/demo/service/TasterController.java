@@ -1,17 +1,16 @@
-package org.acme.getting.started.api;
+package com.example.demo.service;
 
 
-import java.util.ArrayList;
-import java.util.List;
 
-import org.acme.getting.started.utils.TasterBean;
-import org.acme.getting.started.modal.Fruit;
-import org.acme.getting.started.modal.FruitRepository;
+import com.example.demo.modal.Fruit;
+import com.example.demo.modal.FruitRepository;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import org.springframework.web.bind.annotation.PathVariable;
+import java.util.ArrayList;
+import java.util.List;
 
 @RestController
 @RequestMapping("/taster")

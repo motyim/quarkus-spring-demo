@@ -1,7 +1,6 @@
-package org.acme.getting.started.config;
+package com.example.demo.service;
 
 
-import org.acme.getting.started.utils.StringFunction;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
